@@ -1,1 +1,1 @@
-export const pokeapi = 'https://pokeapi.co/api/v2/pokemon';
+export const pokeapi = 'https://pokeapi.co/api/v2/pokemon?limit=20';
